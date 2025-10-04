@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. Honours in Forestry, University of University,(on going)
+* HSC in Science with GPA-5.00, Bakalia Govt. College, 2020
+* SSC in Science with GPA-5.00, Satkania Model High School, 2018
 
 Work experience
 ======
