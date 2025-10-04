@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Honours in Forestry, University of University,(on going)
+* B.Sc. Honours in Forestry, University of University,(ongoing)
 * HSC in Science with GPA-5.00, Bakalia Govt. College, 2020
 * SSC in Science with GPA-5.00, Satkania Model High School, 2018
 
