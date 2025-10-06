@@ -21,5 +21,6 @@ redirect_from:
   * **200 m sprint** (2nd position in Univaersity Annual Sports Day,2023,2024,2025)
   * Football
   * Cricket
-  * Badminton 
+  * Badminton
   * Basketball
+  * High Jump
