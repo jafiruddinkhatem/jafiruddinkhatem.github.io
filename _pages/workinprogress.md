@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Work in Progress"
 permalink: /workinprogress/
 author_profile: true
@@ -12,4 +12,5 @@ See below list of work in progress
 
 <ul> {% include base_path %}
 {% for post in site.workinprogress %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid"%}
+{% endfor %} </ul>
