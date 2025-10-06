@@ -21,7 +21,7 @@ Work experience
 ======
 * Participated in the **NACOM ANR Survey and Plantation Survey** at Chakaria, Cox’s Bazar (January 2025).
 * Conducted the Chattogram City Corporation **Sanitation Survey** (May 2025).
-* Participated in a Social Urban Forest Survey at Chattogram City Corporation (CCC) under the Ph.D. project of Rajasree Nandi Ma’am (February – March 2024).
+* Participated in a **Social Urban Forest** Survey at Chattogram City Corporation (CCC) under the Ph.D. project of Rajasree Nandi Ma’am (February – March 2024).
 
 * Conducted a Cox’s Bazar **Sanitation Social Survey** with the support of DPHE under Waste Concern Consultant Bangladesh (December 2023).
 
@@ -74,12 +74,12 @@ Skills
   
 Teaching 
 ======
-* I am teaching as a Biology teacher at **CANVAS ACADEMIC CARE** since 2025-03-01.
+* I am teaching as a Biology teacher at **CANVAS ACADEMIC CARE** since January 2025.
 * I worked as a Teacher of Mathematics and ICT at **EDU AID** from January 2022 to May 2022.
 
   <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+    <!-- {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
