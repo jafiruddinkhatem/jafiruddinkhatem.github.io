@@ -72,20 +72,17 @@ Skills
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  -->
   
-<!-- Talks
+ <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+   -->
 Teaching 
 ======
 * I am teaching as a Biology teacher at **CANVAS ACADEMIC CARE** since January 2025.
 * I worked as a Teacher of Mathematics and ICT at **EDU AID** from January 2022 to May 2022.
 
-  <ul>{% for post in site.teaching reversed %}
-    <!-- {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 Service and leadership
 ======

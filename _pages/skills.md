@@ -19,10 +19,10 @@ redirect_from:
 
 ## Physical skills
  
-  * **100 m sprint** (3rd position inUniversity Annual Sports Day,2024 and 2025)
-  * **200 m sprint** (2nd position in Univaersity Annual Sports Day,2023,2024,2025)
-  * Football
-  * Cricket
-  * Badminton
-  * Basketball
-  * High Jump
+* **100 m sprint** (3rd position inUniversity Annual Sports Day,2024 and 2025)
+* **200 m sprint** (2nd position in Univaersity Annual Sports Day,2023,2024,2025)
+* Football
+* Cricket
+* Badminton
+* Basketball
+* High Jump
