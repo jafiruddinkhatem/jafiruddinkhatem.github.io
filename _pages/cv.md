@@ -51,7 +51,7 @@ Skills
 * Teaching skills
 * Management skills
 * Technical skills
-  * GEE
+  * GEE (Google Earth Engine)
   * QGIS
   * Python
   * Java Scrift
@@ -59,7 +59,13 @@ Skills
   * i-Tree
   * R
   * Microsoft Office
-
+* Physical skills
+  * 100 m sprint (3rd position inUniversity Annual Sports Day,2024 and 2025)
+  * 200 m sprint (2nd position in Univaersity Annual Sports Day,2023,2024,2025)
+  * Football
+  * Cricket
+  * Badminton 
+  * Basketball
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
