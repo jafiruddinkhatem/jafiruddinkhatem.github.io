@@ -33,4 +33,6 @@ main:
     url: /markdown/
   - title: "Skills"
     url: /skills/
+  - title: "Work in Progress"
+    url: /workinprogress/
 
